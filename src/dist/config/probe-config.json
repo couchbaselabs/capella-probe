@@ -1,0 +1,7 @@
+{
+  "connectionString": "<your-cluster>.cloud.couchbase.com",
+  "username": "username",
+  "password": "password",
+  "bucket": "bucket",
+  "captureTraffic": false
+}
